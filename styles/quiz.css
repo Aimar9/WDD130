@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+p {
+    margin: 0 auto;
+    color: white;
+    background-color: black;
+}
+
+button {
+    margin: 0 auto;
+    width: 10rem;
+    color: white;
+    background-color: blue;
+}

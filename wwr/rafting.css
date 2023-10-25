@@ -36,3 +36,9 @@ header, .grid, footer {
     max-width: 840px;
     margin: 0 auto;
 }
+
+h2, div {
+    padding: 50px;
+    background-color: aqua;
+    
+}
